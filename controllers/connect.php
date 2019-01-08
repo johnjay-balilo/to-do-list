@@ -2,7 +2,7 @@
 
 $host = "db4free.net";
 $username = "todolistactivity";
-$password = "i2346le11nse";
+$password = "todopassword";
 $dbname = "to_do_db";
 
 $conn = mysqli_connect($host, $username, $password, $dbname);
